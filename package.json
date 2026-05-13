@@ -1,0 +1,21 @@
+{
+  "name": "practica_04",
+  "version": "1.0.0",
+  "description": "Servidor Express para localidades de Buenos Aires",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "localidades",
+    "buenos aires"
+  ],
+  "author": "Gladys Vilaró",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
